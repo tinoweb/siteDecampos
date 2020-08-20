@@ -20,7 +20,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-widget links-widget">
                                 <div class="footer-widget-title">
-                                    <h3>Services</h3>
+                                    <h3>Links Principais</h3>
                                 </div>
                                 <ul class="links-lists">
                                     <li><a href="sobrenos.php">Sobre nós </a></li>

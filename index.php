@@ -113,8 +113,8 @@
         <div class="container">
             <div class="upper-block">
                 <div class="title-block">
-                    <span class="tag-line">Services</span><!-- /.tag-line -->
-                    <h2>Service We Provide</h2>
+                    <span class="tag-line">Serviços</span><!-- /.tag-line -->
+                    <h2>Serviço que prestamos</h2>
                 </div><!-- /.title-block -->
                 <div class="carousel-btn-block service-carousel-btn">
                     <span class="carousel-btn left-btn"><i class="cameron-icon-left-arrow"></i></span>
@@ -122,21 +122,6 @@
                 </div><!-- /.carousel-btn-block service-carousel-btn -->
             </div><!-- /.upper-block -->
             <div class="services-carousel-one">
-                <div class="item">
-                    <div class="single-service-one">
-                        <div class="image-block">
-                            <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
-                            <div class="overlay-block">
-                                <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                            </div><!-- /.overlay-block -->
-                        </div><!-- /.image-block -->
-                        <div class="text-block">
-                            <h3><a href="services.html">Car Locksmith</a></h3>
-                            <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                            <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-service-one -->
-                </div><!-- /.col-lg-4 -->
                 <div class="item">
                     <div class="single-service-one">
                         <div class="image-block">
@@ -167,21 +152,7 @@
                         </div><!-- /.text-block -->
                     </div><!-- /.single-service-one -->
                 </div><!-- /.col-lg-4 -->
-                <div class="item">
-                    <div class="single-service-one">
-                        <div class="image-block">
-                            <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
-                            <div class="overlay-block">
-                                <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                            </div><!-- /.overlay-block -->
-                        </div><!-- /.image-block -->
-                        <div class="text-block">
-                            <h3><a href="services.html">Car Locksmith</a></h3>
-                            <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                            <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-service-one -->
-                </div><!-- /.col-lg-4 -->
+                
                 <div class="item">
                     <div class="single-service-one">
                         <div class="image-block">
@@ -278,29 +249,29 @@
     <section class="working-process-one">
         <div class="container">
             <div class="title-block">
-                <span class="tag-line">Proccess</span><!-- /.tag-line -->
-                <h2>Working Proccess</h2>
+                <span class="tag-line">Processo</span><!-- /.tag-line -->
+                <h2>Fluxo de Trabalho</h2>
             </div><!-- /.title-block -->
             <div class="working-process-wrap">
                 <div class="single-working-process-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="count-block">
                         01
                     </div><!-- /.count-block -->
-                    <h3>You Order</h3>
+                    <h3>Você requisita</h3>
                     <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
                 </div><!-- /.single-working-process-one -->
                 <div class="single-working-process-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                     <div class="count-block">
                         02
                     </div><!-- /.count-block -->
-                    <h3>Installation</h3>
+                    <h3>Instalação</h3>
                     <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
                 </div><!-- /.single-working-process-one -->
                 <div class="single-working-process-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                     <div class="count-block">
                         03
                     </div><!-- /.count-block -->
-                    <h3>Enjoy Your Safety</h3>
+                    <h3>Aprecie sua segurança</h3>
                     <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.<p>
                 </div><!-- /.single-working-process-one -->
             </div><!-- /.working-process-wrap -->

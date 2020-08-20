@@ -64,10 +64,12 @@
                             <li class="<?php active('sobrenos.php');?>">
                                 <a href="sobrenos.php">Sobre Nós</a>                            
                             </li>
-                            <li>
-                                <a href="services.php">Serviços</a>
+                            <li class="<?php active('servicos.php');?>">
+                                <a href="servicos.php">Serviços</a>
                             </li>
-                            <li class="<?php active('contato.php');?>"><a href="contato.php">Contato</a></li>
+                            <li class="<?php active('contato.php');?>">
+                                <a href="contato.php">Contato</a>
+                            </li>
                         </ul>
                     </div>
 

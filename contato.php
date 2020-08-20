@@ -16,8 +16,7 @@
 <section class="contact-info-style-one">
     <div class="container">
         <div class="title-block text-center">
-            <span class="tag-line">Contato</span>
-            <h2>Informações de Contato</h2>
+            <span class="tag-line">Informações de Contato</span>
         </div>
         <div class="row high-gutter">
             <div class="col-lg-4">
@@ -60,7 +59,6 @@
                     <div class="contact-form-block my-auto">
                         <div class="title-block">
                             <span class="tag-line">Escrever mensagem</span>
-                            <h2>Entrar em contato</h2>
                         </div>
                         <form action="#" class="contact-form-one contact-form-validated" novalidate="novalidate">
                             <input type="text" name="name" placeholder="Seu Nome">
