@@ -19,7 +19,7 @@
             <span class="tag-line">Conheça nossos principais serviços</span><!-- /.tag-line -->
         </div><!-- /.title-block -->
         <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-service-one">
                     <div class="image-block">
                         <img src="images/services/service-1-5.jpg" alt="Awesome Image">

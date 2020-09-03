@@ -25,7 +25,7 @@
                         margin-left: 19px;
                         padding-left: 33px;
                     ">
-                    <a href="#" class="video-button"><i class="fa fa-play"></i></a>
+                    <!-- <a href="#" class="video-button"><i class="fa fa-play"></i></a> -->
                 </div><!-- /.video-block-style-one -->
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6 d-flex">
